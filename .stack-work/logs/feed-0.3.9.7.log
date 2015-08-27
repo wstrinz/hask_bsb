@@ -1,0 +1,34 @@
+Configuring feed-0.3.9.7...
+Building feed-0.3.9.7...
+Preprocessing library feed-0.3.9.7...
+[ 1 of 23] Compiling Text.RSS.Syntax  ( src\Text\RSS\Syntax.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS\Syntax.o )
+[ 2 of 23] Compiling Text.RSS.Export  ( src\Text\RSS\Export.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS\Export.o )
+[ 3 of 23] Compiling Text.DublinCore.Types ( src\Text\DublinCore\Types.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\DublinCore\Types.o )
+[ 4 of 23] Compiling Text.RSS1.Syntax ( src\Text\RSS1\Syntax.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS1\Syntax.o )
+[ 5 of 23] Compiling Text.RSS1.Utils  ( src\Text\RSS1\Utils.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS1\Utils.o )
+[ 6 of 23] Compiling Text.RSS1.Export ( src\Text\RSS1\Export.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS1\Export.o )
+[ 7 of 23] Compiling Text.RSS.Import  ( src\Text\RSS\Import.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS\Import.o )
+[ 8 of 23] Compiling Text.RSS1.Import ( src\Text\RSS1\Import.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\RSS1\Import.o )
+[ 9 of 23] Compiling Text.Atom.Feed.Link ( src\Text\Atom\Feed\Link.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Feed\Link.o )
+[10 of 23] Compiling Text.Atom.Feed   ( src\Text\Atom\Feed.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Feed.o )
+[11 of 23] Compiling Text.Atom.Feed.Export ( src\Text\Atom\Feed\Export.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Feed\Export.o )
+[12 of 23] Compiling Text.Atom.Feed.Import ( src\Text\Atom\Feed\Import.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Feed\Import.o )
+[13 of 23] Compiling Text.Atom.Feed.Validate ( src\Text\Atom\Feed\Validate.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Feed\Validate.o )
+[14 of 23] Compiling Text.Atom.Pub    ( src\Text\Atom\Pub.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Pub.o )
+[15 of 23] Compiling Text.Atom.Pub.Export ( src\Text\Atom\Pub\Export.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Atom\Pub\Export.o )
+[16 of 23] Compiling Text.Feed.Types  ( src\Text\Feed\Types.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Types.o )
+[17 of 23] Compiling Text.Feed.Constructor ( src\Text\Feed\Constructor.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Constructor.o )
+
+src\Text\Feed\Constructor.hs:131:5: Warning:
+    Pattern match(es) are non-exhaustive
+    In a case alternative: Patterns not matched: XMLFeed _
+[18 of 23] Compiling Text.Feed.Export ( src\Text\Feed\Export.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Export.o )
+[19 of 23] Compiling Text.Feed.Import ( src\Text\Feed\Import.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Import.o )
+[20 of 23] Compiling Text.Feed.Util   ( src\Text\Feed\Util.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Util.o )
+[21 of 23] Compiling Text.Feed.Query  ( src\Text\Feed\Query.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Query.o )
+[22 of 23] Compiling Text.Feed.Translate ( src\Text\Feed\Translate.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Text\Feed\Translate.o )
+[23 of 23] Compiling Paths_feed       ( .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\autogen\Paths_feed.hs, .stack-work\dist\x86_64-windows\Cabal-1.18.1.5\build\Paths_feed.o )
+In-place registering feed-0.3.9.7...
+Installing library in
+C:\Users\as\dev\new_hask_bsb\.stack-work\install\x86_64-windows\lts-2.17\7.8.4\lib\x86_64-windows-ghc-7.8.4\feed-0.3.9.7
+Registering feed-0.3.9.7...
